@@ -21,4 +21,4 @@ Token approvals are a major Web3 security risk.
 This tool helps users discover and revoke risky approvals safely.
 
 ## Status
-✅ Day 1 Challenge Completed
+✅ Day 1 Challenge Completed!

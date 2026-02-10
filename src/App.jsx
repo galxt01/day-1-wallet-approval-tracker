@@ -267,7 +267,7 @@ export default function App() {
 
       {!connectedAddress ? (
         <button onClick={connectWallet}>
-          Connect Wallet(Manage)
+          Connect Wallet
         </button>
       ) : (
         <p>
